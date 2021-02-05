@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 class D3_3499_퍼펙트셔플 {
 	public static void main(String args[]) throws FileNotFoundException {
-		System.setIn(new FileInputStream("squre.txt"));
 		Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
 		int cnt, idx;
